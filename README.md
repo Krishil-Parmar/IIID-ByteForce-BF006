@@ -1,1 +1,1 @@
-I COULD NOT CLONE THE REPO HERE PLEASE VISIT https://github.com/Krishil-Parmar/Lumiq
+PLEASE VISIT https://github.com/Krishil-Parmar/Lumiq FOR THE ACTUAL repository
